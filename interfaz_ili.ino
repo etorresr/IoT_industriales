@@ -1,5 +1,4 @@
 /*
- * Yaxcal Tec
  * Diseño de interfaz con una
  * ILI9341 de Adafruit
  * ESP32 WROOM
